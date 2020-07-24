@@ -63,5 +63,5 @@
 
 - 자체 평가 점수가 가장 높았던 4개의 모델 - attention 모델 선택
 
-![](https://user-images.githubusercontent.com/58925328/88360714-b357c280-cdb1-11ea-8e3c-be8a4cc11464.PNG)
+<img src="https://user-images.githubusercontent.com/58925328/88360714-b357c280-cdb1-11ea-8e3c-be8a4cc11464.PNG" style="zoom: 67%;" />
 
